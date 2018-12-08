@@ -34,6 +34,25 @@
                 "account_number": "0"
             },
             {
+                "address": "cosmos1nt77xvx4graqyrwdj5rpdwwq8gjq5rsjjk7n44",
+                "coins": [
+                    {
+                        "denom": "STAKE",
+                        "amount": "10000"
+                    },
+                    {
+                        "denom": "photinos",
+                        "amount": "10000000000"
+                    },
+                    {
+                        "denom" "STEAK",
+                        "amount": "100000000"
+                    }
+                ],
+                "sequence_number": "0",
+                "account_number": "0"
+            },
+            {
                 "address": "cosmos14ewx62w4l8akxvewmkcdpchqxx70tus4qzdmpn",
                 "coins": [
                     {
