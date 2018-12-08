@@ -1,0 +1,52 @@
+{
+  "type": "auth/StdTx",
+  "value": {
+    "msg": [
+      {
+        "type": "cosmos-sdk/MsgCreateValidator",
+        "value": {
+          "Description": {
+            "moniker": "Cryptium Labs",
+            "identity": "",
+            "website": "",
+            "details": ""
+          },
+          "Commission": {
+            "rate": "1.0000000000",
+            "max_rate": "1.0000000000",
+            "max_change_rate": "1.0000000000"
+          },
+          "delegator_address": "cosmos1nt77xvx4graqyrwdj5rpdwwq8gjq5rsjjk7n44",
+          "validator_address": "cosmosvaloper1nt77xvx4graqyrwdj5rpdwwq8gjq5rsjhz2xex",
+          "pubkey": {
+            "type": "tendermint/PubKeyEd25519",
+            "value": "h1NF2WTdXupd3Mcj8k6sZ8fucUA2NGRpXyo93VB1qnk="
+          },
+          "delegation": {
+            "denom": "STAKE",
+            "amount": "10000"
+          }
+        }
+      }
+    ],
+    "fee": {
+      "amount": [
+        {
+          "denom": "",
+          "amount": "0"
+        }
+      ],
+      "gas": "200000"
+    },
+    "signatures": [
+      {
+        "pub_key": {
+          "type": "tendermint/PubKeySecp256k1",
+          "value": "AoYAs/yBSPPOQGaQLnltFWBZ52iABePvftGBMNEIIpls"
+        },
+        "signature": "7nXwRJHr/mrg1uV+IRlnhucs08wQ16JrSALRMHUUfZlsNU3xT1jQlTwc9F9RSBLTyW/ZyanZv8P5vyuimoQV3w=="
+      }
+    ],
+    "memo": "c14a81c8b363b2885cab098e3390921bbc4b0b63@10.156.0.5:26656"
+  }
+}
