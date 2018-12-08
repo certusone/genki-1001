@@ -45,7 +45,7 @@
                         "amount": "10000000000"
                     },
                     {
-                        "denom" "STEAK",
+                        "denom": "STEAK",
                         "amount": "100000000"
                     }
                 ],
