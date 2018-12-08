@@ -4,7 +4,7 @@ Welcome to the genki-2000 testnet!
 
 Read the chronicles of its birth: https://medium.com/certus-one/a-story-of-four-cosmos-testnets-c8c7a4367078
 
-Forum thread: 
+Forum thread: https://forum.cosmos.network/t/genki-2000-testnet-is-live/1435
 
 You can use your GoS accounts to bond on genki-2000.
 
